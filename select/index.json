@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "HELICOPTER",
+  "base_artist": "CLC",
+  "createdAt": "2025-12-28T05:06:45.038824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/01_Helicopter_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Oh Land",
+      "has_synced": false,
+      "path": "select/02_Helicopter_Oh_Land.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Helicopter (Whitey Version)",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/03_Helicopter_(Whitey_Version)_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Deerhunter",
+      "has_synced": false,
+      "path": "select/04_Helicopter_Deerhunter.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/05_Helicopter_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/06_Helicopter_XTC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Private Helicopter",
+      "artist": "Harvey Danger",
+      "has_synced": true,
+      "path": "select/07_Private_Helicopter_Harvey_Danger.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Police Helicopter",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/08_Police_Helicopter_Red_Hot_Chili_Peppers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Red House Painters",
+      "has_synced": false,
+      "path": "select/09_Helicopter_Red_House_Painters.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Red House Painters",
+      "has_synced": false,
+      "path": "select/10_Helicopter_Red_House_Painters.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Helicopter Spies",
+      "artist": "Swell Maps",
+      "has_synced": false,
+      "path": "select/11_The_Helicopter_Spies_Swell_Maps.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Viva Voce",
+      "has_synced": false,
+      "path": "select/12_Helicopter_Viva_Voce.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Come Around Here (with Helicopter Girl) (2008 Remaster)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/13_Don't_Come_Around_Here_(with_Helicopter_Girl)_(2008_Remaster)_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hello Helicopter",
+      "artist": "Motion City Soundtrack",
+      "has_synced": true,
+      "path": "select/14_Hello_Helicopter_Motion_City_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Police In Helicopter",
+      "artist": "John Holt",
+      "has_synced": true,
+      "path": "select/15_Police_In_Helicopter_John_Holt.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Helicopter",
+      "artist": "Danger Danger",
+      "has_synced": false,
+      "path": "select/16_Helicopter_Danger_Danger.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HELICOPTER",
+      "artist": "CLC",
+      "has_synced": false,
+      "path": "select/pl_01_HELICOPTER_CLC.txt"
+    }
+  ]
+}
